@@ -96,20 +96,20 @@ for i in range(0,9):
 ## Output
 
 ### Original Image
-![img1]()
+![img1](https://github.com/ragulmani936/Thresholding/blob/main/img1.png)
 
 ### Global Thresholding
-![img2]()
-![img3]()
-![img4]()
-![img5]()
+![img2](https://github.com/ragulmani936/Thresholding/blob/main/img2.png)
+![img3](https://github.com/ragulmani936/Thresholding/blob/main/img3.png)
+![img4](https://github.com/ragulmani936/Thresholding/blob/main/img4.png)
+![img5](https://github.com/ragulmani936/Thresholding/blob/main/img5.png)
 
 ### Adaptive Thresholding
-![img6]()
-![img7]()
+![img6](https://github.com/ragulmani936/Thresholding/blob/main/img6.png)
+![img7](https://github.com/ragulmani936/Thresholding/blob/main/img7.png)
 
 ### Optimum Global Thesholding using Otsu's Method
-![img8]()
+![img8](https://github.com/ragulmani936/Thresholding/blob/main/img8.png)
 
 
 ## Result
